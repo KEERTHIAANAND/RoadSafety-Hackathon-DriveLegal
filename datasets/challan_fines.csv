@@ -1,0 +1,35 @@
+violation_code,violation_description,applicable_section,act_name,vehicle_type,jurisdiction,first_offence_fine,repeat_offence_fine,imprisonment_first,imprisonment_repeat,compounding_fee,license_suspension,notes
+GENERAL_OFFENCE,General violation of any provision of the Act,Section 177,MV Amendment Act 2019,all,national,500,1500,,,500,,Residual clause for offences not specifically covered
+DISOBEY_TRAFFIC_SIGN,Disobeying traffic signs or signals,Section 177A,MV Amendment Act 2019,all,national,500,1500,,,500,,
+UNAUTHORIZED_USE,Use of vehicle without authority or permission,Section 178,MV Amendment Act 2019,all,national,5000,10000,,,5000,,
+DISOBEY_REGULATION,Disobey regulations made by authority,Section 179,MV Amendment Act 2019,all,national,2000,4000,,,2000,,
+NO_LICENCE,Driving without a valid driving licence,Section 181,MV Amendment Act 2019,all,national,5000,5000,Up to 3 months,Up to 3 months,5000,,
+DISQUALIFIED_DRIVING,Driving despite disqualification,Section 182,MV Amendment Act 2019,all,national,10000,10000,Up to 3 months,Up to 3 months,10000,,
+OVERSIZED_VEHICLE,Driving oversized or overweight vehicle,Section 182A,MV Amendment Act 2019,transport,national,5000,10000,,,5000,,
+OVERAGE_VEHICLE,Driving an overage vehicle,Section 182B,MV Amendment Act 2019,all,national,5000,10000,,,5000,,
+NO_INSURANCE,Driving without valid insurance,Section 196,MV Amendment Act 2019,all,national,2000,4000,Up to 3 months,Up to 3 months,2000,,
+NO_HELMET,Riding without protective headgear (helmet),Section 194D,MV Amendment Act 2019,2-wheeler,national,1000,2000,,,1000,3 months (DL disqualified for repeat),ISI-standard helmet required
+NO_SEATBELT,Driving without wearing seatbelt,Section 194B(1),MV Amendment Act 2019,4-wheeler,national,1000,1000,,,1000,,
+SPEEDING,Exceeding speed limit,Section 183,MV Amendment Act 2019,LMV,national,1000,2000,,,1000,,For light motor vehicles
+SPEEDING_MEDIUM,Exceeding speed limit - medium goods vehicle,Section 183,MV Amendment Act 2019,medium_goods,national,2000,4000,,,2000,,
+SPEEDING_HEAVY,Exceeding speed limit - heavy vehicle / bus / transport,Section 183,MV Amendment Act 2019,heavy/transport,national,3000,5000,Seizure of DL,Seizure of DL,3000,,
+DANGEROUS_DRIVING,Dangerous or rash driving,Section 184,MV Amendment Act 2019,all,national,5000,10000,Up to 1 year,Up to 2 years,5000,,Endangering life or property
+DRUNK_DRIVING,Driving under influence of alcohol or drugs,Section 185,MV Amendment Act 2019,all,national,10000,10000,Up to 6 months,Up to 2 years,10000,,"BAC limit: 30mg per 100ml blood. Non-compoundable in most states"
+RACING,Racing or speed trial without permission,Section 189,MV Amendment Act 2019,all,national,5000,10000,Up to 1 month,Up to 1 month,5000,,
+MOBILE_PHONE,Using mobile phone while driving,Section 184,MV Amendment Act 2019,all,national,5000,10000,Up to 6 months,Up to 1 year,5000,,Covered under dangerous driving
+SIGNAL_JUMP,Jumping red signal / traffic light,Section 177A,MV Amendment Act 2019,all,national,1000,5000,,,1000,,
+NO_PERMIT,Driving transport vehicle without permit,Section 192A,MV Amendment Act 2019,transport,national,10000,10000,Up to 6 months,Up to 6 months,10000,,
+OVERLOADING_PAX,Overloading of passengers,Section 194A,MV Amendment Act 2019,transport,national,1000 per extra passenger,1000 per extra passenger,,,1000,,Per extra passenger beyond capacity
+NO_REGISTRATION,Driving unregistered vehicle,Section 192,MV Amendment Act 2019,all,national,5000,10000,Up to 1 year,Up to 1 year,5000,,
+JUVENILE_DRIVING,Allowing juvenile (minor) to drive,Section 199A,MV Amendment Act 2019,all,national,25000,25000,Up to 3 years,Up to 3 years,,"Registration cancelled, juvenile tried under JJ Act","Guardian/owner held responsible"
+NO_PUC,Driving without Pollution Under Control certificate,Section 190(2),MV Amendment Act 2019,all,national,10000,10000,Up to 6 months,Up to 6 months,10000,,
+WRONG_SIDE,Driving on wrong side of road,Section 184,MV Amendment Act 2019,all,national,5000,10000,Up to 6 months,Up to 1 year,5000,,Covered under dangerous driving
+NO_EMERGENCY_LANE,Not giving way to emergency vehicles,Section 194E,MV Amendment Act 2019,all,national,10000,10000,,,10000,,
+AGGREGATOR_VIOLATION,Violation by vehicle aggregator (ride-hailing),Section 93,MV Amendment Act 2019,all,national,25000,50000,,,25000,,For Ola/Uber type aggregators
+NOISE_VIOLATION,Excessive noise / modified silencer,Section 190(2),MV Amendment Act 2019,all,national,1000,2000,,,1000,,
+MODIFIED_VEHICLE,Alteration of vehicle without approval,Section 191,MV Amendment Act 2019,all,national,5000,5000,Up to 1 year,Up to 1 year,5000,,
+HIT_AND_RUN,Hit and run accident (causing injury/death),Section 161,MV Amendment Act 2019,all,national,,,Up to 6 months (injury) / Up to 10 years (death),,,,"Non-compoundable; compensation via MACT"
+OBSTRUCTION,Causing obstruction to free flow of traffic,Section 177,MV Amendment Act 2019,all,national,500,1500,,,500,,
+NUMBER_PLATE_VIOLATION,Missing or improper number plate / fancy plate,Section 192,MV Amendment Act 2019,all,national,5000,10000,,,5000,,HSRP plates mandatory
+TRIPLE_RIDING,Riding with more than one pillion rider (triple riding) on a two-wheeler,Section 194C,MV Amendment Act 2019,2-wheeler,national,1000,1000,,,1000,3 months,Contravention of Section 128. DL disqualification for 3 months.
+
