@@ -1,0 +1,9 @@
+# DriveLegal Backend
+
+# Ignore generated data
+data/chroma_db/
+*.pyc
+__pycache__/
+.env
+venv/
+.venv/
